@@ -1,0 +1,6 @@
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\bin\Debug\инвентарь.exe.config
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\bin\Debug\инвентарь.exe
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\bin\Debug\инвентарь.pdb
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\obj\Debug\Sport_inventory.csprojResolveAssemblyReference.cache
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\obj\Debug\инвентарь.exe
+c:\users\professional\documents\visual studio 2015\Projects\инвентарь\инвентарь\obj\Debug\инвентарь.pdb
